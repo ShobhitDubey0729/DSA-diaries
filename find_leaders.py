@@ -1,4 +1,4 @@
-# find leaders in goven array
+# find leaders in given array
 
 def findLeaders(A):
     if len(A) == 0:
